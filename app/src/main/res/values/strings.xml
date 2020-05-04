@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Anpr Reader</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="configure">Configure</string>
+    <string name="show_low_confidence_label">Show Low Confidence results (&lt; 0.8)</string>
+</resources>
