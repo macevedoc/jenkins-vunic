@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.sd-toolkit.developer:anpr-sdk:2.1.27@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/07378a408593a06cb41e961ddafb63e6/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/07378a408593a06cb41e961ddafb63e6/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a96484d35544d9a841456320d9f3c17f/anpr-sdk-2.1.27/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a96484d35544d9a841456320d9f3c17f/anpr-sdk-2.1.27/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sd-toolkit.developer/anpr-sdk/2.1.27/ed9faac30a09ec5067b3188adb806b0be5e744a6/anpr-sdk-2.1.27-javadoc.jar!/" />
